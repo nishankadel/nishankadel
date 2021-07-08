@@ -10,3 +10,4 @@ Connect With Me:
 [Linkedin- @nishankadel](https://www.linkedin.com/in/nishan-kadel-b5470818a/)
 [Facebook- @nishankadel](https://www.facebook.com/iamthenishankadel)
 
+<img src="https://github-readme-stats.vercel.app/api?username=nishankadel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
