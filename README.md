@@ -1,9 +1,6 @@
 ### Hi there 👋, My Name is Nishan Kadel.
 #### I am Backend Web Developer.
 
-I hope to be a professional Web-Developer (backend), who always works with my fellow employees and mentors to learn new things. I trust that I will be able to get many new talents and skills throughout your internship and will be able to give back to the company accordingly by hard work. accordingly. In any manner, I'll help the company. The precious assets, I can and will be. In addition, I have decent JavaScript understanding, NodeJS, MERN stack. Finally, I'm the fast and good learner, too. So, I think I'm going to fit in the working atmosphere in your company.
-
-
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m currently learning Node.JS, ReactJS
 - 👯 I’m looking to work with amazing developers and teams.
