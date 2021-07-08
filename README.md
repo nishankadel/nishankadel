@@ -16,3 +16,5 @@ Connect With Me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishankadel)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=nishankadel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nishankadel)](https://github.com/anuraghazra/github-readme-stats)
