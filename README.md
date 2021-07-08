@@ -7,4 +7,6 @@
 - ⚡ Fun fact: I am a good singer 😄.
 
 Connect With Me:
-Facebook: @iamthenishankadel
+[Linkedin- @nishankadel](https://www.linkedin.com/in/nishan-kadel-b5470818a/)
+[Facebook- @nishankadel](https://www.facebook.com/iamthenishankadel)
+
