@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Node.JS, ReactJS
 - 👯 I’m looking to work with amazing developers and teams.
 - 📫 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a good singer 😄.
+- ⚡ Fun fact: Fun is gone 😄.
 
 Skills: Node.js, ReactJS, MongoDB, Express, git, VS code and others.
 
